@@ -138,7 +138,7 @@ pm.test("Response time is less than 500ms", function () {
 ## 📥 Download & Import Collection
 
 
-
+[Download JSON File](CRUD_JSONPlaceholder.postman_collection.json)
 
 
 **Or import directly in Postman:**
