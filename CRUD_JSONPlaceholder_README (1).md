@@ -2,10 +2,6 @@
 
 > A complete CRUD Postman collection using **JSONPlaceholder** API — covering all HTTP methods with **status code checks**, **response body assertions**, **environment variable storage**, and **response time validations** on every request.
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JSONPlaceholder](https://img.shields.io/badge/JSONPlaceholder-REST%20API-6C63FF?style=for-the-badge)
-![Test Scripts](https://img.shields.io/badge/Test%20Scripts-JS-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 > 🌐 **Base URL:** `https://jsonplaceholder.typicode.com`
 
@@ -141,9 +137,9 @@ pm.test("Response time is less than 500ms", function () {
 
 ## 📥 Download & Import Collection
 
-> Click the button below to download the Postman collection file and import it directly into Postman.
 
-[![Download Collection](https://img.shields.io/badge/Download-Collection%20JSON-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](./CRUD_JSONPlaceholder.postman_collection.json)
+
+
 
 **Or import directly in Postman:**
 1. Click the link above to download the `.json` file
@@ -194,4 +190,4 @@ newman run CRUD_JSONPlaceholder.postman_collection.json -r htmlextra --reporter-
 
 ---
 
-*Made by [Xavier Varghese](https://github.com/xavier552) · Associate QA Engineer 🇮🇳*
+*Made by [Xavier Varghese](https://github.com/xavier552) · Associate QA Engineer 
